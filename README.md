@@ -1,1 +1,2 @@
-# Prisoner-s-Dilemma
+# prisoners
+Iterative Prisoners' dilemma
